@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "php-llm/mcp-sdk": "dev-main",
+        "php-llm/mcp-sdk": "^0.1",
         "symfony/config": "^6.4 || ^7.0",
         "symfony/console": "^6.4 || ^7.0",
         "symfony/dependency-injection": "^6.4 || ^7.0",
