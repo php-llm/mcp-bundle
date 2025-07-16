@@ -1,5 +1,10 @@
 # MCP Bundle [WIP]
 
+> [!IMPORTANT]  
+> **PHP LLM becomes Symfony AI** - this project moved to [github.com/symfony/ai](https://github.com/symfony/ai).
+> Please use the new repository for all future development, issues, and contributions.
+> Thanks for your contributions - we hope to see you at Symfony AI!
+
 Symfony integration bundle for [Model Context Protocol](https://modelcontextprotocol.io/) using the unofficial
 PHP SDK [php-llm/mcp-sdk](https://github.com/php-llm/mcp-sdk) library.
 

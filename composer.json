@@ -9,6 +9,7 @@
             "email": "mail@christopher-hertel.de"
         }
     ],
+    "abandoned": "symfony/mcp-bundle",
     "require": {
         "php-llm/mcp-sdk": "^0.1",
         "symfony/config": "^6.4 || ^7.0",
